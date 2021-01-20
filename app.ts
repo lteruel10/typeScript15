@@ -1,4 +1,4 @@
-(function(){//SCOPE
+(()=>{//SCOPE
   
 
 
